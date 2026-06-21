@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CareerAccelerator>
+
+    <Project>
+        <Name>Graduate Skill Index</Name>
+        <Title>Career Accelerator</Title>
+        <Description>
+            Bridging the Gap Between Education and Employability
+        </Description>
+    </Project>
+
+    <Features>
+
+        <Feature>
+            <Name>Skill Development</Name>
+            <Description>
+                Learn industry relevant skills
+            </Description>
+        </Feature>
+
+        <Feature>
+            <Name>Real Projects</Name>
+            <Description>
+                Build real-world portfolio projects
+            </Description>
+        </Feature>
+
+        <Feature>
+            <Name>Interview Prep</Name>
+            <Description>
+                Practice interviews and improve confidence
+            </Description>
+        </Feature>
+
+        <Feature>
+            <Name>Career Guidance</Name>
+            <Description>
+                Get mentorship and career paths
+            </Description>
+        </Feature>
+
+    </Features>
+
+
+    <Contact>
+        <Email>bevintop@gmail.com</Email>
+        <Phone>+91-8015208065</Phone>
+    </Contact>
+
+</CareerAccelerator>
